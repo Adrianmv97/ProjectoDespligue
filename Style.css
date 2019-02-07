@@ -12,6 +12,17 @@
 
     border-radius: 10px;
 }
+.contenidoJava{
+    margin: 1% 0% 1% 0%;
+    background-color: darkgrey;
+    padding: 1%;
+
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+
+    border-radius: 10px;
+}
 .contenido > a{
     margin:  0% 5% 0% 5%;
 }
