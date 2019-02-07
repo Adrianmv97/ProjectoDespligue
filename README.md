@@ -1,6 +1,7 @@
 # ProjectoDespligue
 
-Buenas, estoy es un projecto de estudio.
+Buenas, mi nombre es Adrian, esto es una pagina web super simple, es un projecto de estudio en que consiste en el trabajo grupal.
+A continuacion os dejo el mapa de navegacion y el wireframe
 
 Mapa de navegacion
 ---
