@@ -1,0 +1,35 @@
+.center{
+    text-align: center;
+}
+.contenido{
+    margin: 1% 0% 1% 0%;
+    background-color: darkgrey;
+    padding: 1%;
+
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+
+    border-radius: 10px;
+}
+.contenido > a{
+    margin:  0% 5% 0% 5%;
+}
+.contenido > a:hover{
+    background-color: grey;
+}
+.imagenIcono{
+    width: 80px;
+    height: 80px;
+}
+
+@media all and (max-width: 490px){
+    .contenido{
+        display: flex;
+        flex-flow: column nowrap;
+        justify-content: center
+    }
+    .contenido > a{
+        margin:  5% 5% 5% 5%;
+    }
+}
