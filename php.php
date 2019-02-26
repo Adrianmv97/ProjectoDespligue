@@ -13,5 +13,6 @@ include './IncludeSupeior.inc';
     </div>
 </div>
 <?php
+include 'comentarios.php';
 include './IncludeInferior.inc';
 ?>

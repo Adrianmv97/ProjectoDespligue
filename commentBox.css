@@ -1,0 +1,21 @@
+
+#usuario{
+    width: 100%;
+    margin: auto;
+}
+textarea{
+    width: 100%;
+}
+
+#padre{
+    width: 100%;
+    margin: auto;
+    text-align: left;
+    
+}
+#hijo{
+    margin-top: 2px; 
+    background-color: gray;
+    border-radius: 15px;
+    text-align:center;
+}
